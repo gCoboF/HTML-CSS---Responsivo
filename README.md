@@ -52,7 +52,9 @@ Visite o site em: [file:///C:/Users/gabri/OneDrive/Desktop/HTML-CSS---Responsivo
 
 ## 📱 Design Responsivo
 
-![image](https://github.com/user-attachments/assets/950f994b-2753-4ba4-a2ef-eb373af06ff4) ![image](https://github.com/user-attachments/assets/5ef05a8e-f025-4bf5-935b-eb0ed926acc1)
+![image](https://github.com/user-attachments/assets/5ef05a8e-f025-4bf5-935b-eb0ed926acc1)
+
+![image](https://github.com/user-attachments/assets/950f994b-2753-4ba4-a2ef-eb373af06ff4) 
 
 ### Mobile First (< 1024px)
 - Layout em coluna única
