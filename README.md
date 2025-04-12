@@ -4,7 +4,7 @@ Uma aplicação web responsiva para uma loja de álbuns musicais, construída co
 
 Este é um projeto focado em design e responsividade. A maioria dos botões e links são demonstrativos e não possuem funcionalidades implementadas, servindo apenas para demonstração do layout e interações visuais.
 
-Visite o site em: [file:///C:/Users/gabri/OneDrive/Desktop/HTML-CSS---Responsivo/index.html](https://gcobof.github.io/HTML-CSS---Responsivo/)
+Visite o site em: https://gcobof.github.io/HTML-CSS---Responsivo/
 
 ![image](https://github.com/user-attachments/assets/0260952a-2665-4c05-bb93-d206df71c038)
 
